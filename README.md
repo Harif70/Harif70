@@ -13,7 +13,7 @@
 ###
 
 <p align="left"> 🎓 Pursuing B.Tech in Computer Science at SIMATS Engineering, Chennai.
-<br>🌱 Currently enhancing my skills in Data Science, Machine Learning, and Full-Stack Development.<br>🚀 Passionate about developing innovative solutions and solving complex problems using technology.<br> 📫 How to reach me: **harifk.contact@gmail.com.</p>
+<br>🌱 Currently enhancing my skills in Data Science, Machine Learning, and Full-Stack Development.<br>🚀 Passionate about developing innovative solutions and solving complex problems using technology.<br> 📫 How to reach me: **hharif70@gmail.com.</p>
 
 ###
 
